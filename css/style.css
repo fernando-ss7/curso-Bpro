@@ -22,3 +22,45 @@ body {
 header {
     background-color: #FA5B08;
 }
+.contenedor-texto{
+    color: #3CA5A1;
+    background-color: #576362;
+    border: 10px solid;
+    padding-top: 1em;
+    padding-right: 1em;
+    padding-bottom: 1em;
+    padding-left: 1em;
+}
+.contenedor-texto-2{
+    color: rgb(3, 80, 54);
+    background-color: aliceblue;
+    border: 10px solid;
+    padding-top: 1em;
+    padding-right: 1em;
+    padding-bottom: 1em;
+    padding-left: 1em;
+}
+.contenedor-texto-3{
+    background-color: #FA5B08;
+    border: 10px solid;
+    padding-top: 1em;
+    padding-right: 1em;
+    padding-bottom: 1em;
+    padding-left: 1em;
+}
+.contenedor-texto-4{
+    background-color: #576362;
+    border: 10px solid;
+    padding-top: 1em;
+    padding-right: 1em;
+    padding-bottom: 1em;
+    padding-left: 1em;
+}
+.contenedor-texto-5{
+    background-color: #3CA5A1;
+    border: 10px solid;
+    padding-top: 1em;
+    padding-right: 1em;
+    padding-bottom: 1em;
+    padding-left: 1em;
+}
